@@ -1,2 +1,10 @@
-# tencentKeTangMerge
-基于https://github.com/HarryWang29/tencentKeTang项目的视频合并代码
+项目目的：
+使用大佬的项目：https://github.com/HarryWang29/tencentKeTang 进行下载腾讯课堂视频时，很多无法合并，所以直接就写了这个小脚本进行处理
+
+
+使用方法：
+直接下载文件，放在其文件的根路径，双击执行就可以了
+
+
+注：
+文件夹和文件中存在 & 字符会导致无法合并，需要重新命名后，在进行合并操作
